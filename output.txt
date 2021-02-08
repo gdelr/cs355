@@ -1,0 +1,20 @@
+char:                            1 bytes
+unsigned char:                   1 bytes
+signed char:                     1 bytes
+int:                             4 bytes
+unsigned int:                    4 bytes
+signed int:                      4 bytes
+short int:                       2 bytes
+unsigned short int :             2 bytes
+signed short int:                2 bytes
+long int:                        4 bytes
+signed long int:                 4 bytes
+unsigned long int:               4 bytes
+long long int:                   8 bytes
+unsigned long long int:          8 bytes
+float:                           4 bytes
+double:                          8 bytes
+long double:                    12 bytes
+short:                           2 bytes
+long:                            4 bytes
+bool:                            1 bytes
